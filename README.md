@@ -3,7 +3,7 @@ Source code of submission: "Feature Purification for Improving the Robustness of
  
    
 Model scheme:  
-![image](model.png)
+![image](FPAT.png)
 
 
 # Requirements
